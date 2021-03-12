@@ -41,9 +41,14 @@ or SDK according to your Pico version.
 Run the program
 ---------------
 
-### 1.Open "runthis.py",
+### 1.Open "pico\_Win.py"or"readingMode.py",
 
-install the libraries needed to run this program inetting.
+If you have to require the new data through Pico,connect Pico to you PC
+and open"pico\_Win.py"\
+Or if you already have the data you need to monitor,open
+"readingMode.py"and change the path to yours.In this way,the time
+consumption of the process will be greatly decreased.\
+install the libraries needed to run this program in setting.
 
 ### 2.Run the program
 
@@ -81,4 +86,5 @@ Colin O'Flynn
 Thanks to our mentor Gang Zhao
 [nmzhaogang@sjtu.edu.cn](mailto:nmzhaogang@sjtu.edu.cn)
 
-Edit By [MaHua](http://mahua.jser.me)
+Edit By [MaHua](http://mahua.jser.me) Edit By
+[MaHua](http://mahua.jser.me)
